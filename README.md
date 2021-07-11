@@ -1,4 +1,5 @@
 # Swar's Chia Plot Manager 
+# add plotNTFs support by brianjojoray 2021-07-11
 
 #### A plot manager for Chia plotting: https://www.chia.net/
 [English](README.md) / [Русский](README.RU.md)
